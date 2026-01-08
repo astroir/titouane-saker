@@ -1,0 +1,15 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.titouane-saker-web.vercel.app"
+        }
+      ],
+      "destination": "https://titouane-saker-web.vercel.app/$1",
+      "permanent": true
+    }
+  ]
+}
