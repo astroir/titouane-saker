@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 # Sitemap pointant vers le site Vercel
-Sitemap: https://www.titouane-saker-web.vercel.app/sitemap.xml
+Sitemap: https://titouane-saker-web.vercel.app/sitemap.xml
